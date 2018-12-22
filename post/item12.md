@@ -1,7 +1,7 @@
 
 ## item12
 ### toString을 항상 재정의하라
-===
+
 
 - 대부분의 class 는 Object 를 상속받아 사용하는 경우가 많음  
 - 로그나 System message 로 class 를 찍었을 땐 보통 Object::toString 을 수행함.  
